@@ -16,7 +16,7 @@ Pod::Spec.new do |s|
 #
 
 s.name         = "SMAPIManager-Swift"
-s.version      = "1.0.2"
+s.version      = "1.0.3"
 s.summary      = "This APIManager will help to make api request and parse the response in an Object Oriented way."
 
 # This description is used to generate tags and improve search results.
@@ -24,9 +24,9 @@ s.summary      = "This APIManager will help to make api request and parse the re
 #   * Try to keep it short, snappy and to the point.
 #   * Write the description between the DESC delimiters below.
 #   * Finally, don't worry about the indent, CocoaPods strips it!
-s.description  = <<-DESC
-"This APIManager will help to make api request and parse the response in an Object Oriented way. This manager has been written base on Alamafire Network Framework."
-DESC
+#s.description  = <<-DESC
+#"This APIManager will help to make api request and parse the response in an Object Oriented way. This manager has been written base on Alamafire Network Framework."
+#DESC
 
 s.homepage     = "https://github.com/mailmemani/APIManager-Swift"
 # s.screenshots  = "www.example.com/screenshots_1.gif", "www.example.com/screenshots_2.gif"
@@ -39,8 +39,8 @@ s.homepage     = "https://github.com/mailmemani/APIManager-Swift"
 #  Popular ones are 'MIT', 'BSD' and 'Apache License, Version 2.0'.
 #
 
-s.license      = "MIT LICENSE"
-#s.license      = { :type => "MIT", :file => "LICENSE" }
+#s.license      = "MIT LICENSE"
+s.license      = { :type => "MIT", :file => "LICENSE" }
 
 
 # ――― Author Metadata  ――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
