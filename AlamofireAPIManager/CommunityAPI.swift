@@ -3,7 +3,7 @@
 //  AlamofireAPIManager
 //
 //  Created by Subramanian on 2/8/16.
-//  Copyright © 2016 Tarento Technologies Pvt Ltd. All rights reserved.
+//  Copyright © 2016 Subramanian. All rights reserved.
 //
 
 import Foundation
