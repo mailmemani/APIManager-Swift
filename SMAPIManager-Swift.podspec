@@ -24,8 +24,8 @@ s.summary      = "This APIManager will help to make api request and parse the re
 #   * Try to keep it short, snappy and to the point.
 #   * Write the description between the DESC delimiters below.
 #   * Finally, don't worry about the indent, CocoaPods strips it!
-s.description  = <<-DESC
-DESC This APIManager will help to make api request and parse the response in an Object Oriented way. This manager has been written base on Alamafire Network Framework.
+#s.description  = <<-DESC
+#DESC
 
 s.homepage     = "https://github.com/mailmemani/APIManager-Swift"
 # s.screenshots  = "www.example.com/screenshots_1.gif", "www.example.com/screenshots_2.gif"
