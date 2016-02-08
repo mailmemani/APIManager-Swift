@@ -16,7 +16,7 @@ Pod::Spec.new do |s|
 #
 
 s.name         = "SMAPIManager-Swift"
-s.version      = "1.0.1"
+s.version      = "1.0.2"
 s.summary      = "This APIManager will help to make api request and parse the response in an Object Oriented way."
 
 # This description is used to generate tags and improve search results.
